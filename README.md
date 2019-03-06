@@ -1,12 +1,10 @@
 # The SpatialOS GDK Improbable Game Jame Lite 2019
 
-Basic jam game for prototyping
+Jam game for prototyping
 
 ## Jam
 
 [Jam Posting](https://forums.improbable.io/t/spatialos-gdk-game-jam-lite/5460)
-
-Before using this project, make sure to follow the [machine setup guide](https://docs.improbable.io/unity/alpha/content/get-started/set-up#set-up-your-machine).
 
 ## Setup
 
